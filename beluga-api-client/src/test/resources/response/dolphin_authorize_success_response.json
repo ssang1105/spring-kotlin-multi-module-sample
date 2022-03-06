@@ -1,0 +1,7 @@
+{
+  "access_token": "TEST-ACCESS-TOKEN",
+  "token_type": "TEST-TOKE-TYPE",
+  "refresh_token": "TEST-REFRESH-TOKEN",
+  "expires_in": 3600,
+  "scope": "TEST"
+}

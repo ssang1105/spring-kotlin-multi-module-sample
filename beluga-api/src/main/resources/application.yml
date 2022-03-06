@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+api:
+  client:
+    dolphin:
+      base-url: https://dolphin-dev.XXXX.io:13000/v1/auth
+      client-id: sample-client-id
+      client-secret: sample-client-secret
+      connection-timeout-millis: 5000
+      connection-read-timeout-millis: 5000
+      enable: true

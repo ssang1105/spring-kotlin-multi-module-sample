@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.sw.spring.kotlin.sample.apiclient.dolphin.config.DolphinClientAutoConfiguration,\
+  com.sw.spring.kotlin.sample.apiclient.kis.config.KisClientAutoConfiguration
